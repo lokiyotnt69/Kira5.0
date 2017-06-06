@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>                               [COLOR lime][B]  B I E N V E N I D O S[/COLOR][COLOR yellow] A [/COLOR][COLOR deepskyblue] DIABLO 2.0[/B][/COLOR]   </title>
+<link>$doregex[openDialog]</link>
+<regex>
+<name>openDialog</name>
+<expres><![CDATA[#$pyFunction
+import xbmcaddon
+import xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+    __addon__ = xbmcaddon.Addon()
+    __addonname__ = __addon__.getAddonInfo('name')     
+    line1 = "Bienvenido a J.H.G. Master"
+    line2 = "Disfruta de su Contenido"
+    line3 = "Totalmente Gratuito" 
+    xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
+    return 
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+ 
+<item>
+<title>                                          [COLOR yellow][B]  ADDON CREADO Y DEDICADO A:[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<externallink>http://ignorame</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>                                  [B][COLOR lightslategray] A  [/COLOR][/B]     </title>
+<link>$doregex[openDialog]</link>
+<regex>
+<name>openDialog</name>
+<expres><![CDATA[#$pyFunction
+import xbmcaddon
+import xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+    __addon__ = xbmcaddon.Addon()
+    __addonname__ = __addon__.getAddonInfo('name')     
+    line1 = "CATOAL,ANGEL, ANABEL "
+    line2 = "GRACIAS "
+    line3 = "Por estar ahi." 
+    xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
+    return 
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>                                                                     [COLOR yellow][B]  Y[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<externallink>http://ignorame</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>                                            [B][COLOR blue]*[/COLOR][COLOR yellow]*[/COLOR][COLOR skyblue] * [/COLOR]*[COLOR red]*[/COLOR][COLOR red] y toda la Familia JHG [/COLOR][/B]      </title>
+<link>$doregex[openDialog]</link>
+<regex>
+<name>openDialog</name>
+<expres><![CDATA[#$pyFunction
+import xbmcaddon
+import xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+    __addon__ = xbmcaddon.Addon()
+    __addonname__ = __addon__.getAddonInfo('name')     
+    line1 = "FAMILIA "
+    line2 = "GRACIAS "
+    line3 = "OS QUIERO." 
+    xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
+    return 
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+
+
+
+<item>
+<title>[COLOR yellow] ************PREPARANDO  DETALLES LANZAMIENTO KIRA****FECHA PREVISTA************************** [/COLOR]</title>
+<link>http://</link>
+</item>
+
+
+
+
+
+
+
+ 
+<item>
+<title>[COLOR lime]*CATOAL[/COLOR][COLOR blue] 5[/COLOR].[COLOR yellow]4[/COLOR].[COLOR red]0[/COLOR].</title>
+<link>http://ignorame</link>
+<thumbnail>http://i.imgur.com/6fioR4R.png</thumbnail>
+<fanart>http://i.imgur.com/z53W91X.png</fanart>
+<externallink>&#104;&#116;&#116;&#112;&#115;://&#114;&#097;&#119;&#046;&#103;&#105;&#116;&#104;&#117;&#098;&#117;&#115;&#101;&#114;&#099;&#111;&#110;&#116;&#101;&#110;&#116;&#046;&#099;&#111;&#109;/&#067;&#097;&#114;&#108;&#101;&#115;&#116;&#111;/&#076;&#105;&#115;&#116;&#097;&#115;/&#109;&#097;&#115;&#116;&#101;&#114;/&#099;&#097;&#114;&#105;&#110;&#100;&#101;&#120;</externallink>
+</item>
+
+
+
+
+
+
+
