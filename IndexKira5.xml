@@ -113,4 +113,28 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink></externallink>
 </item>
 
+ 
+<item>
+<title>[COLOR lime]Zona2 Pruebas[/COLOR].</title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>
+</item>
+ 
+<item>
+<title>[COLOR lime]Zona3 Pruebas[/COLOR].</title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>
+</item>
+ 
+<item>
+<title>[COLOR lime]kira peliculas[/COLOR].</title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Kira5.0/master/PELICULASKIRA.xml</externallink>
+</item>
 
