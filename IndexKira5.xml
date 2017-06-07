@@ -3,7 +3,7 @@
 
  
 <item>
-<title>                                          [COLOR yellow][B]  ADDON CREADO Y DEDICADO A:[/COLOR][/B]</title>
+<title>                                          [COLOR yellow][B]  ADDON CREADO POR JHG [/COLOR][/B]</title>
 <link>http://ignorame</link>
 <externallink>http://ignorame</externallink>
 <thumbnail></thumbnail>
@@ -11,7 +11,7 @@
 </item>
 
 <item>
-<title>                                  [B][COLOR lightslategray] A  [/COLOR][/B]     </title>
+<title>                                  [B][COLOR lightslategray] DEDICADO A LOS MÁS PEQUEÑOS DE LA CASA  [/COLOR][/B]     </title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
@@ -35,7 +35,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>                                                                     [COLOR yellow][B]  Y[/COLOR][/B]</title>
+<title>                                                                     [COLOR yellow][B] GRACIAS FAMILIA[/COLOR][/B]</title>
 <link>http://ignorame</link>
 <externallink>http://ignorame</externallink>
 <thumbnail></thumbnail>
