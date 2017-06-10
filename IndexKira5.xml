@@ -73,7 +73,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR yellow] ************PREPARANDO  DETALLES LANZAMIENTO MUNDODISNEY****FECHA PREVISTA************************** [/COLOR]</title>
+<title>[COLOR yellow] ************************MUNDO DISNEY************************** [/COLOR]</title>
 <link>http://</link>
 </item>
 
@@ -87,19 +87,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
- 
- 
-<item>
-<title>[COLOR lime]*xxx[/COLOR].</title>
-<link>http://ignorame</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Kira5.0/master/PELICULASKIRA.xml</externallink>
-</item>
 
+[COLOR green]*ZONA[/COLOR][COLOR skyblue][/COLOR][COLOR lime][/COLOR]
  
 <item>
-<title>[COLOR lime]Zona1 Pruebas[/COLOR].</title>
+<title>[COLOR green]*ZONA[/COLOR][COLOR skyblue] PELICULAS [/COLOR][COLOR lime] DISNEY[/COLOR].</title>
 <link>http://ignorame</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -108,7 +100,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
  
 <item>
-<title>[COLOR lime]Zona2 Pruebas[/COLOR].</title>
+<title>[COLOR green]*ZONA[/COLOR][COLOR skyblue][/COLOR][COLOR lime][/COLOR].</title>
 <link>http://ignorame</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -116,24 +108,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
  
 <item>
-<title>[COLOR lime]Zona3 Pruebas[/COLOR].</title>
-<link>http://ignorame</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>
-</item>
-
- 
-<item>
-<title>[COLOR lime]Zona2 Pruebas[/COLOR].</title>
-<link>http://ignorame</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>
-</item>
- 
-<item>
-<title>[COLOR lime]Zona3 Pruebas[/COLOR].</title>
+<title>[COLOR green]*ZONA[/COLOR][COLOR skyblue][/COLOR][COLOR lime][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -142,7 +117,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
  
 <item>
-<title>[COLOR lime]Zona2 Pruebas[/COLOR].</title>
+<title>[COLOR green]*ZONA[/COLOR][COLOR skyblue][/COLOR][COLOR lime][/COLOR].</title>
 <link>http://ignorame</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -150,7 +125,16 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
  
 <item>
-<title>[COLOR lime]Zona3 Pruebas[/COLOR].</title>
+<title>[COLOR green]*ZONA[/COLOR][COLOR skyblue][/COLOR][COLOR lime][/COLOR].</title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>
+</item>
+
+ 
+<item>
+<title>[COLOR green]*ZONA[/COLOR][COLOR skyblue][/COLOR][COLOR lime][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -158,7 +142,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
  
 <item>
-<title>[COLOR lime]kira peliculas[/COLOR].</title>
+<title>[COLOR green]*ZONA[/COLOR][COLOR skyblue][/COLOR][COLOR lime][/COLOR].</title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>
+</item>
+ 
+<item>
+<title>[COLOR green]*ZONA[/COLOR][COLOR skyblue][/COLOR][COLOR lime][/COLOR].</title>
 <link>http://ignorame</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -166,7 +158,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
-
+<!----
 <item>
 <title>[COLOR yellow] ***************************ZONA [/COLOR][COLOR yellow] **JHG BUSCANDO NOVEDADES**************************************************** [/COLOR]</title>
 <link>http://</link>
@@ -191,6 +183,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+ 
+ 
+<item>
+<title>[COLOR lime]*xxx[/COLOR].</title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Kira5.0/master/PELICULASKIRA.xml</externallink>
+</item>
 
 
 <item>
