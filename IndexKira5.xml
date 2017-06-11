@@ -100,11 +100,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
  
 <item>
-<title>[COLOR green]*ZONA[/COLOR][COLOR skyblue][/COLOR][COLOR lime][/COLOR].</title>
+<title>[COLOR green]*ZONA[/COLOR][COLOR skyblue] SERIES [/COLOR][COLOR lime] INFANTILES [/COLOR].</title>
 <link>http://ignorame</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Kira5.0/master/ZONASERIESKIRA.xml</externallink>
 </item>
  
 <item>
