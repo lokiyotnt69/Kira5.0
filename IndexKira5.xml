@@ -35,7 +35,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>                                                                     [COLOR yellow][B] GRACIAS FAMILIA[/COLOR][/B]</title>
+<title>                                                                     [COLOR red][B] GRACIAS FAMILIA[/COLOR][/B]</title>
 <link>http://ignorame</link>
 <externallink>http://ignorame</externallink>
 <thumbnail></thumbnail>
@@ -43,7 +43,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>                                            [B][COLOR blue]*[/COLOR][COLOR yellow]*[/COLOR][COLOR skyblue] * [/COLOR]*[COLOR red]*[/COLOR][COLOR red] y toda la Familia JHG [/COLOR][/B]      </title>
+<title>                                            [B][COLOR red]*[/COLOR][COLOR blue]*[/COLOR][COLOR red] * [/COLOR]*[COLOR blue]*[/COLOR][COLOR red]* [/COLOR][/B]      </title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
@@ -90,13 +90,17 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 [COLOR green]*ZONA[/COLOR][COLOR skyblue][/COLOR][COLOR lime][/COLOR]
  
+
+
+
 <item>
-<title>[COLOR green]*ZONA[/COLOR][COLOR skyblue] PELICULAS [/COLOR][COLOR lime] DISNEY[/COLOR].</title>
-<link>http://ignorame</link>
+<title>[COLOR red]* [/COLOR][COLOR blue] MUNDO [/COLOR][COLOR red] INFANTIL [/COLOR]</title>
+<link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Diablo/master/Mundoinfantil.xml</externallink>	
 </item>
+
 
  
 <item>
@@ -181,6 +185,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
+<item>
+<title>[COLOR green]*ZONA[/COLOR][COLOR skyblue] PELICULAS [/COLOR][COLOR lime] DISNEY[/COLOR].</title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>
+</item>
 
 
  
