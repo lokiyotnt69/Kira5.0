@@ -111,6 +111,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
  
 <item>
+<title>[COLOR green]*ZONA[/COLOR][COLOR skyblue] PELICULAS [/COLOR][COLOR lime] [/COLOR].</title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Kira5.0/master/zONAPEQUE.xml</externallink>
+</item>
+
+ 
+<item>
 <title>[COLOR green]*ZONA[/COLOR][COLOR skyblue][/COLOR][COLOR lime][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail></thumbnail>
@@ -163,13 +172,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>[COLOR green]*ZONA[/COLOR][COLOR skyblue] PELICULAS [/COLOR][COLOR lime] [/COLOR].</title>
-<link>http://ignorame</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Kira5.0/master/zONAPEQUE.xml</externallink>
-</item>
 
 
 <!----
