@@ -73,7 +73,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR yellow] **************EN REFORMAS!!!!!!!!!! TODO OFFFFF   IR A JOKER!!!!!*********** [/COLOR]</title>
+<title>[COLOR yellow] **************EN REFORMAS!!!!!!!!!  IR A JOKER!!!!!*********** [/COLOR]</title>
 <link>http://</link>
 </item>
 
@@ -91,24 +91,27 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 
 
-
-<item>
-<title>[COLOR red]* [/COLOR][COLOR blue] MUNDO [/COLOR][COLOR red] INFANTIL [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Diablo/master/Mundoinfantil.xml</externallink>	
-</item>
-
-
  
 <item>
 <title>[COLOR green]*ZONA[/COLOR][COLOR skyblue] SERIES [/COLOR][COLOR lime] INFANTILES [/COLOR].</title>
 <link>http://ignorame</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>
+<thumbnail>http://cdn6.dibujos.net/images/listas/la-10-mejores-series-infantiles-para-ninos-pequenos.jpg</thumbnail>
+<fanart>http://cdn6.dibujos.net/images/listas/la-10-mejores-series-infantiles-para-ninos-pequenos.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JOKER/master/SERIESCRIOS.xml</externallink>
 </item>
+
+
+<item>
+<title>[COLOR red]* [/COLOR][COLOR blue]SERIES[/COLOR][COLOR red] INFANTILES 2[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://cdn6.dibujos.net/images/listas/la-10-mejores-series-infantiles-para-ninos-pequenos.jpg</thumbnail>
+<fanart>http://cdn6.dibujos.net/images/listas/la-10-mejores-series-infantiles-para-ninos-pequenos.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JOKER/master/SeriescrioPlanA.xml</externallink>	
+</item>
+
+
+<!-----------------------------
+
  
 <item>
 <title>[COLOR green]*ZONA[/COLOR][COLOR skyblue] PELICULAS [/COLOR][COLOR lime] [/COLOR].</title>
