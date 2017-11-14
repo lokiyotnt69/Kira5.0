@@ -5,7 +5,7 @@
 
 
 <item>
-<title>[COLOR  yellow]* [/COLOR][COLOR yellow]THE[/COLOR][COLOR red]JOKER[/COLOR][COLOR  lime]* [/COLOR][COLOR  lime] LOS AUTOS LOCOS [/COLOR]</title>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] LOS AUTOS LOCOS [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>

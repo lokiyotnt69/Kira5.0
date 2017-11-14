@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><item>
 
-
+[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] [/COLOR][COLOR yellow]  _**_[/COLOR]
 
 <item>
-<title>[COLOR  yellow]* [/COLOR][COLOR yellow]THE[/COLOR][COLOR red]JOKER[/COLOR][COLOR  lime]* [/COLOR][COLOR  lime] ALFRED J.KWAK [/COLOR]</title>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] ALFRED J.KWAK  [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
